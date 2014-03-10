@@ -1,0 +1,2 @@
+export(as.dummies,is.inrange,bracket)
+export(f2st,st2f,f2bark,bark2f,f2mel,mel2f)
