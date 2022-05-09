@@ -27,9 +27,9 @@ st2f( st, base=50 )
 	A doubling of the frequency in Hz equals 12 semitones or 1 octave. 
 	
 	Function \code{f2st} was based on function \code{h2st} by Mark Liberman \cr
-	(\url{http://ldc.upenn.edu/myl/llog/semitones.R}). \cr
+	(last seen at http://ldc.upenn.edu/myl/llog/semitones.R but no longer available online). \cr
 	Function \code{st2f} was based on a conversion script by Jan Roelof de Pijper \cr
-	(\url{http://users.abo.fi/jtuomain/speech/semitone.html}). 
+	(last seen at http://users.abo.fi/jtuomain/speech/semitone.html but no longer available online). 
 	
 	For frequencies in Hz of musical notes, 
 	see e.g. \url{http://www.phy.mtu.edu/~suits/notefreqs.html}.

@@ -27,9 +27,11 @@ as.dummies ( x )
    whether (value=1) or not (value=0)
 	the i'th observation in the input factor \var{x} has the value of 
    the j'th level of that factor.  
+
+  \code{as.dummies(x)} is similar to \code{model.matrix(~-1+x)}.
 }
 \seealso{
-  \code{\link{levels}}, \code{\link{matrix}}.
+  \code{\link{levels}}, \code{\link{matrix}}, \code{\link{model.matrix}}..
 }
 \examples{
 xf <- factor( rep(letters[1:3],each=2) )

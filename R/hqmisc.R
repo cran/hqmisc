@@ -1,6 +1,6 @@
 # hqmisc 
-# version 0.1
-# date 2014-03-08
+# version 0.2-1
+# date 2022-05-09
 
 ### MISCELLANEOUS FUNCTIONS ###
 

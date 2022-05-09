@@ -1,11 +1,11 @@
-bde4d8fa30c778ce6b9c83c1b99809a5 *DESCRIPTION
-533b0459c99b51e93985e8704295e445 *NAMESPACE
-525354fb9a50511deee90bdc73161374 *R/hqmisc.R
-00bc748c4f74782b7c2a9294891aa5b1 *data/talkers.rda
-1fe5e1dd2ffcf3d7a2a0a2df2de8f5e7 *man/as.dummies.Rd
+f399470bc0b3c71ed31e6a0594c860dc *DESCRIPTION
+46dd22657f744482c5852fe672b4a2e6 *NAMESPACE
+143d1d72806007d9fe44a89e52d68500 *R/hqmisc.R
+6e7605565b5fa111bfb5447d2f776e5e *data/talkers.rda
+ba4ca0c9a6293431a3717b1b20fd892e *man/as.dummies.Rd
 14ff5c9d0f027cf1a0feeb78d132ed38 *man/bracket.Rd
 8562b2fac1bdb8dd45f996e29367aeb4 *man/f2bark.Rd
 df53cf9121c4ef57928e21e82cff7394 *man/f2mel.Rd
-48acc950a572bdeb23eb18ced6c9bc38 *man/f2st.Rd
+d447f5f50cde48e3630606a337fb1171 *man/f2st.Rd
 341a9fa9f1a57b4e9f54f082aa92bfc7 *man/is.inrange.Rd
 f83c6ae92dc2b3fcc6bda3b0db9f5e8b *man/talkers.Rd
