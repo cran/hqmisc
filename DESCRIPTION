@@ -1,11 +1,13 @@
 Package: hqmisc
-Version: 0.2-1
-Date: 2022-05-09
+Version: 0.2-2
+Date: 2026-11-24
 Encoding: UTF-8
 Title: Miscellaneous Convenience Functions and Dataset
-Authors@R: c(person("Hugo", "Quene", role = c("aut", "cre"),
-                     email = "h.quene@uu.nl", 
-                     comment = c(ORCID="0000-0001-7988-1346")) )
+Authors@R: person(given = "Hugo",
+                    family = "Quene",
+                    role = c("aut", "cre"),
+                    email = "h.quene@uu.nl")
+Author: Hugo Quene [aut, cre]
 Maintainer: Hugo Quene <h.quene@uu.nl>
 Depends: R (>= 3.0.0), stats
 Imports: graphics
@@ -18,7 +20,6 @@ Description: Miscellaneous convenience functions and wrapper functions
 	of 80 talkers of Dutch. 
 License: GPL (>= 2)
 NeedsCompilation: no
-Packaged: 2022-05-09 15:41:15 UTC; Hugo
-Author: Hugo Quene [aut, cre] (<https://orcid.org/0000-0001-7988-1346>)
+Packaged: 2026-11-24 22:00:30 UTC; hugo
 Repository: CRAN
-Date/Publication: 2022-05-09 17:00:02 UTC
+Date/Publication: 2026-11-24 22:30:02 UTC

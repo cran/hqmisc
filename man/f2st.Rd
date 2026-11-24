@@ -31,8 +31,8 @@ st2f( st, base=50 )
 	Function \code{st2f} was based on a conversion script by Jan Roelof de Pijper \cr
 	(last seen at http://users.abo.fi/jtuomain/speech/semitone.html but no longer available online). 
 	
-	For frequencies in Hz of musical notes, 
-	see e.g. \url{http://www.phy.mtu.edu/~suits/notefreqs.html}.
+	For frequencies in Hz of musical notes, see \url{https://plastic.audio/note-frequencies} 
+	(based on a table by Bryan Suits, last seen at http://www.phy.mtu.edu/~suits/notefreqs.html, no longer available online).
 }
 \seealso{
   \code{\link{f2bark}, \link{bark2f}, \link{f2mel}, \link{mel2f}.}
